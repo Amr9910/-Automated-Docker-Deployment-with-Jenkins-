@@ -29,6 +29,13 @@ This project implements an end-to-end continuous integration and continuous depl
 
 <img width="1897" height="909" alt="image" src="https://github.com/user-attachments/assets/0b328ed7-40f7-4b26-9341-7e05517edf44" />
 
+<img width="1885" height="894" alt="image" src="https://github.com/user-attachments/assets/8e0ce31e-c0e5-4349-bd41-6bbf11c29931" />
+
+
+<img width="1888" height="892" alt="image" src="https://github.com/user-attachments/assets/46a6995d-aedd-4ff0-b133-545dd3485d37" />
+
+
+
 2. **Build Triggers**:
    - Configured with **GitHub hook trigger for GITScm polling** (or **Poll SCM**) to listen for new commits automatically.
 
