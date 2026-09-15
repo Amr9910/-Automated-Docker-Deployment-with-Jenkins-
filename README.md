@@ -37,6 +37,13 @@ This project implements an end-to-end continuous integration and continuous depl
 <img width="1584" height="209" alt="AdobeExpressPhotos_31c6b16f3c7743f883d6bbe79e094ee7_CopyEdited" src="https://github.com/user-attachments/assets/2f0e5be6-751a-4321-a4bf-1b839f1a873f" />
 
 
+<img width="1888" height="901" alt="AdobeExpressPhotos_a7316925657346e4a72bb44333bda869_CopyEdited" src="https://github.com/user-attachments/assets/f011b569-11db-4d5f-954c-07d6c1e38b76" />
+
+
+<img width="1582" height="222" alt="AdobeExpressPhotos_02c1a9811b82422c961842efc742932a_CopyEdited" src="https://github.com/user-attachments/assets/40c0bc42-989d-4419-ac6b-921bcd3812dd" />
+
+
+
 2. **Build Triggers**:
    - Configured with **GitHub hook trigger for GITScm polling** (or **Poll SCM**) to listen for new commits automatically.
 
