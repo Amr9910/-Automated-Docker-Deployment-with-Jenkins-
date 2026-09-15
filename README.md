@@ -34,6 +34,7 @@ This project implements an end-to-end continuous integration and continuous depl
 
 <img width="1888" height="892" alt="image" src="https://github.com/user-attachments/assets/46a6995d-aedd-4ff0-b133-545dd3485d37" />
 
+<img width="1584" height="209" alt="AdobeExpressPhotos_31c6b16f3c7743f883d6bbe79e094ee7_CopyEdited" src="https://github.com/user-attachments/assets/2f0e5be6-751a-4321-a4bf-1b839f1a873f" />
 
 
 2. **Build Triggers**:
