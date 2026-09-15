@@ -18,10 +18,16 @@ This project implements an end-to-end continuous integration and continuous depl
 - **Docker**: Containerization platform.
 - **Jenkins**: CI/CD Automation Server
 
-⚙️ Jenkins Freestyle Job Configuration
+⚙️ Jenkins Job Configuration
 
 1. **Source Code Management**:
-   - Repository source set to **Git** pointing to the repository URL and target branch (`main` or `master`).
+   - Repository source set to **Git** pointing to the repository URL and target branch (`main`).
+     
+<img width="1884" height="900" alt="Screenshot 2026-09-15 231023" src="https://github.com/user-attachments/assets/0719d594-2c8d-4d0f-99cd-0f77f1f793bf" />
+
+<img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/8431b844-937d-4012-9ebd-0e9e5e335e58" />
+
+<img width="1897" height="909" alt="image" src="https://github.com/user-attachments/assets/0b328ed7-40f7-4b26-9341-7e05517edf44" />
 
 2. **Build Triggers**:
    - Configured with **GitHub hook trigger for GITScm polling** (or **Poll SCM**) to listen for new commits automatically.
