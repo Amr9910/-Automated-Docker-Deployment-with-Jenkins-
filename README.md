@@ -50,6 +50,19 @@ This project implements an end-to-end continuous integration and continuous depl
 <img width="1885" height="891" alt="AdobeExpressPhotos_63a40f071bd242258bc38fbf0bdb89b8_CopyEdited" src="https://github.com/user-attachments/assets/a9c8e826-548b-4c0a-8433-d6331791863d" />
 
 
+<img width="1884" height="901" alt="AdobeExpressPhotos_979bf2ea2b8b4c3791b159a13792d66d_CopyEdited" src="https://github.com/user-attachments/assets/f5070d53-e8b3-4186-885f-4a85c71dc65b" />
+
+
+<img width="1901" height="909" alt="AdobeExpressPhotos_509bee615a564aa684054be212a3237d_CopyEdited" src="https://github.com/user-attachments/assets/2fdedd1c-8ddc-49b0-9c01-898ab6dfc781" />
+
+
+
+<img width="1884" height="901" alt="AdobeExpressPhotos_7a173a34110344acb2f52adc4a257e39_CopyEdited" src="https://github.com/user-attachments/assets/60fbb5b7-cd5d-4bf7-8021-e99a2f2396c3" />
+
+
+
+
+
 
 
 2. **Build Triggers**:
