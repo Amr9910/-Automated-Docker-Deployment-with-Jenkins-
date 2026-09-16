@@ -65,6 +65,16 @@ This project implements an end-to-end continuous integration and continuous depl
 
 
 
+<img width="1907" height="896" alt="AdobeExpressPhotos_5eced96378174ab3adcd7194a6d9dca2_CopyEdited" src="https://github.com/user-attachments/assets/4e289202-4454-4b92-9f45-d04b3e3f613c" />
+
+
+
+<img width="1588" height="288" alt="AdobeExpressPhotos_b2410ca216254359964c6a90d9d76443_CopyEdited" src="https://github.com/user-attachments/assets/7233db8a-33e6-4e59-9dee-d705762025ff" />
+
+
+
+
+
 
 
 
