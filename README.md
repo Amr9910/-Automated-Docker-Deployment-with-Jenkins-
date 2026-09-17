@@ -6,6 +6,8 @@
 
 This project implements an end-to-end continuous integration and continuous deployment (**CI/CD**) pipeline. By bridging **GitHub**, **Jenkins**, and **Docker**, every code commit triggers an automated sequence that builds an updated Docker image, safely tears down the legacy container, and spins up the new application instance—eliminating manual server management and reducing downtime to zero.
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 ## 📌 Key Features
 
 - **Automated Build**: Triggers a new Docker image build on every code update.
